@@ -1,0 +1,13 @@
+#Build Verion
+build:
+  version: "1.0"  
+
+#Contact Info
+students:
+  name: "Welcome to Student MicroService"
+  contactDetails: 
+    name: "neha Afreen"
+    email: "nafreen1234@gmail.com"
+  onCallSupport:
+     - (+91) 9131053401
+     - (+91) 7089717309
