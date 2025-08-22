@@ -7,7 +7,7 @@ students:
   name: "Welcome to Student MicroService"
   contactDetails: 
     name: "neha Afreen"
-    email: "77fe08ce3f9210cd04e34aac80359ec281d01c57bdda64505e452be01e30fa773b78ce5762cb50bdcc247f19d59bd297"
+    email: "{cipher}77fe08ce3f9210cd04e34aac80359ec281d01c57bdda64505e452be01e30fa773b78ce5762cb50bdcc247f19d59bd297"
   onCallSupport:
      - (+91) 9131053401
      - (+91) 7089717309
