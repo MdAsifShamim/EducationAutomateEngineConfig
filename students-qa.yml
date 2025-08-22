@@ -7,7 +7,7 @@ students:
   name: "Welcome to Student MicroService"
   contactDetails: 
     name: "AAMIR SHAMIM"
-    email: "aamirshamim.jsr@gmail.com"
+    email: "{cipher}e1c0598c46bc054de7ee3bee2f071a179f24e619e67a08c9e8401c13cfb892c557705aa24ef967cb80adb24deef5c1c6"
   onCallSupport:
      - (+91) 9131053401
      - (+91) 7089717309
