@@ -6,7 +6,7 @@ students:
   name: "Welcome to Student MicroService"
   contactDetails: 
     name: "MD ASIF SHAMIM"
-    email: "asifshamim0403@gmail.com"
+    email: "{cipher}267763a42299f83c5de14217d234bbed06eef1b21b9043bf378aa0bc540729a89414fa3449a5b64ce910ab8859b058c4"
   onCallSupport:
      - (+91) 9131053401
      - (+91) 7089717309
