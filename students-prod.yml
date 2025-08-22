@@ -4,7 +4,7 @@ build:
 
 #Contact Info
 students:
-  name: "Welcome to Student prod Microservice"
+  name: "Welcome to Student webhook prod Microservice"
   contactDetails: 
     name: "neha Afreen"
     email: "{cipher}77fe08ce3f9210cd04e34aac80359ec281d01c57bdda64505e452be01e30fa773b78ce5762cb50bdcc247f19d59bd297"
