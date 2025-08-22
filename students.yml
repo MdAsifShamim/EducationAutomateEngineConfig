@@ -3,7 +3,7 @@ build:
   version: "1.3"  
 
 students:
-  name: "Welcome to Student MicroService"
+  name: "Welcome to Student Dev MicroService"
   contactDetails: 
     name: "MD ASIF SHAMIM"
     email: "{cipher}267763a42299f83c5de14217d234bbed06eef1b21b9043bf378aa0bc540729a89414fa3449a5b64ce910ab8859b058c4"
